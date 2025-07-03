@@ -78,12 +78,12 @@
 <table align="center">
   <tr>
     <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&theme=algolia" alt="GitHub Stats" />
+    </td>
+     <td>
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=alwiranata&theme=algolia" alt="GitHub Streak" />
       </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&theme=algolia" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
