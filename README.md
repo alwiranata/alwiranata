@@ -72,9 +72,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwiranata&theme=algolia" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </p>
