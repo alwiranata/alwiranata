@@ -76,15 +76,10 @@
 
 
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&theme=algolia" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=alwiranata&theme=github-dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=alwiranata" alt="GitHub Streak" />
+</p>
 
 
 </table>
