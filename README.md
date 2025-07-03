@@ -73,17 +73,18 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=alwiranata&theme=algolia" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=alwiranata" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 
