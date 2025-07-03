@@ -1,5 +1,6 @@
-<h1 align="center">Hello, I'm Aldo Wiranata</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h1 align="center">🚀 Building Reliable Software for Real-World Impact</h1>
+<h3 align="center">👋 Hello! I'm Aldo Wiranata, a Fullstack Developer</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alwiranata&label=Profile%20views&color=4B0082&style=flat" alt="alwiranata" />
@@ -8,7 +9,7 @@
 ---
 
 ### 📫 How to reach me
-**awiranata263@gmail.com**
+** [Email](awiranata263@gmail.com) -> aldowiranata263@gmail.com**
 
 ---
 
@@ -71,9 +72,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwiranata&theme=algolia" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
