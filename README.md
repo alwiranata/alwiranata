@@ -78,9 +78,8 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwiranata&theme=algolia" alt="GitHub Streak" />
-    </td>
+    <img src="https://streak-stats.demolab.com?user=alwiranata&theme=algolia" />
+
   </tr>
 </table>
 
