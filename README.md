@@ -78,8 +78,7 @@
 <table align="center">
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=alwiranata&theme=github-dark" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alwiranata&theme=algolia)](https://git.io/streak-stats)</p>
 
 
 </table>
