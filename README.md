@@ -48,20 +48,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alwiranata&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </p>
 
-<!-- Jika GitHub Streak tidak error, bisa aktifkan bagian ini kembali
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwiranata&theme=algolia" alt="GitHub Streak" />
-</p>
--->
-
+]
 ---
 
 Thank you for visiting my profile! 🙏
