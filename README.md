@@ -9,7 +9,7 @@
 ---
 
 ### 📫 How to reach me
-** 📧 [Email](awiranata263@gmail.com) -> aldowiranata263@gmail.com**
+- 📧 [Email](awiranata263@gmail.com) →`aldowiranata263@gmail.com `
 
 ---
 
