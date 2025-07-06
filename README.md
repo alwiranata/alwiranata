@@ -86,6 +86,11 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwiranata&layout=compact&hide=HTML,CSS,PHP)
+    </td>
+  </tr>
 </table>
 
 
