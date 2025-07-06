@@ -72,7 +72,7 @@
 
 ## 📚 Popular Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwiranata&layout=compact&hide=HTML,CSS,PHP&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwiranata&layout=compact&hide=HTML,CSS,PHP&theme=algolia)
 
 ## 📊 GitHub Stats
 
