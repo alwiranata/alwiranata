@@ -70,15 +70,21 @@
 
 ---
 
-## 📚 Popular Languages
+## 🔥 GitHub Activity
 
-![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alwiranata&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&hide_border=true)
 
-## 📊 GitHub Stats
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alwiranata&theme=tokyonight)
+
+## 🔥 Languages
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alwiranata&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alwiranata&theme=tokyonight)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alwiranata&show_icons=true&theme=algolia" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=alwiranata&theme=algolia" alt="GitHub Streak" />
+
+
 
 
 
