@@ -108,12 +108,10 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 
 ### 📊 Adventure Log (Stats)
 
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alwiranata&theme=tokyonight"/>
-
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alwiranata&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alwiranata&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -125,8 +123,4 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
     alt="Anime Scenery Footer"
     style="border-radius:30px;"
   />
-</div>
-
-<div align="center">
-  <small><i>"Code is my journey, learning is my power."</i></small>
 </div>
