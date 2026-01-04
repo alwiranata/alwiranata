@@ -4,7 +4,7 @@
       width="100%"
       height="350px"
       alt="Anime Landscape Header"
-      style="border-radius:15px;"
+      border-radius="15px"
     />
   </a>
 </div>
