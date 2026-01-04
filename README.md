@@ -2,7 +2,7 @@
     <img 
       src="https://japanese.binus.ac.id/files/2017/02/thumb-1920-744908.jpg"
       width="100%"
-      height="350px"
+      height="400px"
       alt="Anime Landscape Header"
       style="border-radius:30px;"
     />
