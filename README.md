@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/aldo-wiranata">
     <img 
-      src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1600&auto=format&fit=crop"
+      src="https://image.idntimes.com/post/20190608/sugashrine-2-04a7ad7f464257ff24469137570c9d40.jpg?tr=w-1200,f-webp,q-75&width=1200&format=webp&quality=75"
       width="100%"
       height="340px"
       alt="Anime Landscape Header"
@@ -43,10 +43,10 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 
 <div align="center">
   <img 
-    src="https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1600&auto=format&fit=crop"
+    src="https://c4.wallpaperflare.com/wallpaper/94/797/206/kimi-no-na-wa-comet-makoto-shinkai-starry-night-wallpaper-preview.jpg"
     width="100%"
     height="300"
-    alt="Anime Clouds"
+    alt="Anime Starry Sky"
   />
 </div>
 
@@ -123,10 +123,10 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 
 <div align="center">
   <img 
-    src="https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop"
+    src="https://i.pinimg.com/originals/e3/b3/3c/e3b33c784ade18328477c3ad780794e8.jpg"
     width="100%"
     height="300"
-    alt="Anime Night Sky"
+    alt="Anime Scenery Footer"
   />
 </div>
 
