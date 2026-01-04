@@ -45,7 +45,7 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
   <img 
     src="https://c4.wallpaperflare.com/wallpaper/94/797/206/kimi-no-na-wa-comet-makoto-shinkai-starry-night-wallpaper-preview.jpg"
     width="100%"
-    height="300"
+    height="400"
     alt="Anime Starry Sky"
   />
 </div>
@@ -121,7 +121,7 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
   <img 
     src="https://i.pinimg.com/originals/e3/b3/3c/e3b33c784ade18328477c3ad780794e8.jpg"
     width="100%"
-    height="300"
+    height="400"
     alt="Anime Scenery Footer"
   />
 </div>
