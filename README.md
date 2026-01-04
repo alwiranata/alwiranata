@@ -4,7 +4,7 @@
       width="100%"
       height="350px"
       alt="Anime Landscape Header"
-      border-radius="15px"
+      style="border-radius:30px;"
     />
   </a>
 </div>
@@ -46,6 +46,7 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
     width="100%"
     height="350"
     alt="Anime Starry Sky"
+    style="border-radius:30px;"
   />
 </div>
 
@@ -122,6 +123,7 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
     width="100%"
     height="350"
     alt="Anime Scenery Footer"
+    style="border-radius:30px;"
   />
 </div>
 
