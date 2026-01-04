@@ -1,95 +1,117 @@
-<h1 align="center">🚀 Building Reliable Software for Real-World Impact</h1>
-<h3 align="center">👋 Hello! I'm Aldo Wiranata, a Fullstack Developer</h3>
+<div align="center">
+  <a href="https://github.com/aldo-wiranata">
+    <img src="./assets/gif/header.gif" width="100%" height="340px" alt="Anime Ghibli Landscape Header" style="border-radius: 15px;">
+  </a>
+</div>
 
+<div align="center">
+  <h1 style="font-size: 2.5em;">✨ Welcome to My GitHub Profile ✨</h1>
+  <h2 style="color:#dbfddc;">Aldo Wiranata</h2>
+  <h3>
+    Fullstack Developer | Web & IoT Enthusiast | Anime & Tech Explorer 🌱⚙️
+  </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alwiranata&label=Profile%20views&color=4B0082&style=flat" alt="alwiranata" />
-</p>
-
----
-
-### 📫 How to reach me
-- 📧 [Email](awiranata263@gmail.com) →`aldowiranata263@gmail.com `
-
----
-
-### 🌐 Connect with me:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/aldo-wiranata-9185552a7/) → `aldo-wiranata`
-- 📸 [Instagram](https://instagram.com/aldo_wiranata17) → `aldo_wiranata17`
-- 💻 [GitHub](https://github.com/alwiranata) → `alwiranata`
-
----
-
-## 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  <p>
+    <a href="https://linkedin.com/in/aldo-wiranata">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+    </a>
+    <a href="https://github.com/aldo-wiranata">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+    </a>
+    <a href="mailto:aldo@email.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## ⚙️ Frameworks & Libraries
+### 📜 The Adventurer's Profile
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+Like a protagonist in an anime journey, I enjoy building software step by step — learning, failing, and evolving.  
+I focus on **web development, backend systems, and IoT projects**, while exploring modern technologies to create real-world impact.
 
----
+- 🧠 **Interest:** Web Development, IoT, Automation
+- 🏫 **Experience:** Academic & Project-Based Development
+- 🚀 **Goal:** Build meaningful, scalable, and useful systems
 
-## 🛢️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="./assets/gif/header-2.jpg" width="100%" height="340">
+</div>
 
 ---
 
-## ☁️ Cloud & DevOps
+### 🎒 My Toolbox & Spells (Tech Stack)
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<table>
+  <tr>
+    <th colspan="4" align="center">🧩 Programming & Web</th>
+  </tr>
+  <tr>
+    <td align="center" width="15%">
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="40"/><br>
+      <b>HTML / CSS / JS</b>
+    </td>
+    <td width="35%"><br>Core web technologies.</td>
+    <td align="center" width="15%">
+      <img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+      <b>React</b>
+    </td>
+    <td width="35%"><br>Modern UI development.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
+      <b>Node.js</b>
+    </td>
+    <td><br>Backend & API services.</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="40"/><br>
+      <b>PHP</b>
+    </td>
+    <td><br>Server-side scripting.</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <th colspan="4" align="center">⚙️ Tools & Platform</th>
+  </tr>
+  <tr>
+    <td align="center" width="15%">
+      <img src="https://skillicons.dev/icons?i=git,github" width="40"/><br>
+      <b>Git & GitHub</b>
+    </td>
+    <td width="35%"><br>Version control.</td>
+    <td align="center" width="15%">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>
+      <b>Vercel</b>
+    </td>
+    <td width="35%"><br>Deployment & hosting.</td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/gif/footer-2.gif" width="100%" height="340">
+</div>
 
 ---
 
-## 🧰 Development Tools
+### 📊 Adventure Log (Stats)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldo-wiranata&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-wiranata&layout=compact&theme=radical" height="180"/>
+</div>
 
 ---
 
-## 🔥 GitHub Activity
+<div align="center">
+  <img src="./assets/gif/footer-1.jpg" width="100%" height="340">
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&hide_border=true)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alwiranata&theme=tokyonight)
-
-## 🔥 Languages
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alwiranata&theme=tokyonight)
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alwiranata&theme=tokyonight)
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <small><i>"Code is my journey, learning is my power."</i></small>
+</div>
