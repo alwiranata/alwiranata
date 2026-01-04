@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/aldo-wiranata">
     <img 
-      src="https://image.idntimes.com/post/20190608/sugashrine-2-04a7ad7f464257ff24469137570c9d40.jpg?tr=w-1200,f-webp,q-75&width=1200&format=webp&quality=75"
+      src="https://japanese.binus.ac.id/files/2017/02/thumb-1920-744908.jpg"
       width="100%"
       height="400px"
       alt="Anime Landscape Header"
