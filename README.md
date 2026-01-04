@@ -110,8 +110,8 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 
 <p align="center">
 
+<img src="https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&cache_seconds=86400" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&cache_seconds=86400)
 
 </p>
 
