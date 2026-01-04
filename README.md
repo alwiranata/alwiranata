@@ -115,4 +115,15 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 
 ---
 
-src="https://i.pinimg.com/originals/e3/b3/3c/e3b33c784ade18328477c3ad780794e8.jpg" width="100%" height="350" alt="Anime Scenery Footer" /> </div> <div align="center"> <small><i>"Code is my journey, learning is my power."</i></small> </div>
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/originals/e3/b3/3c/e3b33c784ade18328477c3ad780794e8.jpg"
+    width="100%"
+    height="350"
+    alt="Anime Scenery Footer"
+  />
+</div>
+
+<div align="center">
+  <small><i>"Code is my journey, learning is my power."</i></small>
+</div>
