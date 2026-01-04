@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://github.com/aldo-wiranata">
     <img 
       src="https://japanese.binus.ac.id/files/2017/02/thumb-1920-744908.jpg"
       width="100%"
