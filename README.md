@@ -119,11 +119,11 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
   <img 
     src="https://i.pinimg.com/originals/e3/b3/3c/e3b33c784ade18328477c3ad780794e8.jpg"
     width="100%"
-    height="350"
+    height="450"
     alt="Anime Scenery Footer"
   />
 </div>
 
 <div align="center">
-  <small><i>"Code is my journey, learning is my power."</i></small>
+ ⚡ "From zero to production — one commit at a time." ⚡
 </div>
