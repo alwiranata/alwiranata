@@ -1,25 +1,31 @@
 <div align="center">
   <a href="https://github.com/aldo-wiranata">
-    <img src="./assets/gif/header.gif" width="100%" height="340px" alt="Anime Ghibli Landscape Header" style="border-radius: 15px;">
+    <img 
+      src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1600&auto=format&fit=crop"
+      width="100%"
+      height="340px"
+      alt="Anime Landscape Header"
+      style="border-radius:15px;"
+    />
   </a>
 </div>
 
 <div align="center">
-  <h1 style="font-size: 2.5em;">✨ Welcome to My GitHub Profile ✨</h1>
-  <h2 style="color:#dbfddc;">Aldo Wiranata</h2>
+  <h1>✨ Welcome to My GitHub Profile ✨</h1>
+  <h2 style="color:#7ee787;">Aldo Wiranata</h2>
   <h3>
-    Fullstack Developer | Web & IoT Enthusiast | Anime & Tech Explorer 🌱⚙️
+    Fullstack Developer | Web & IoT Enthusiast | Anime Tech Explorer ⚙️🌱
   </h3>
 
   <p>
-    <a href="https://linkedin.com/in/aldo-wiranata">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/aldo-wiranata">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="mailto:aldo@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
@@ -28,15 +34,20 @@
 
 ### 📜 The Adventurer's Profile
 
-Like a protagonist in an anime journey, I enjoy building software step by step — learning, failing, and evolving.  
-I focus on **web development, backend systems, and IoT projects**, while exploring modern technologies to create real-world impact.
+Like a character in an anime journey, I enjoy learning and building software step by step.  
+I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to create useful and scalable solutions.
 
-- 🧠 **Interest:** Web Development, IoT, Automation
-- 🏫 **Experience:** Academic & Project-Based Development
-- 🚀 **Goal:** Build meaningful, scalable, and useful systems
+- 🧠 Interest: Web Development, IoT, Automation  
+- 🎯 Goal: Impactful and reliable systems  
+- 🌱 Currently learning: Advanced Backend & Cloud
 
 <div align="center">
-  <img src="./assets/gif/header-2.jpg" width="100%" height="340">
+  <img 
+    src="https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1600&auto=format&fit=crop"
+    width="100%"
+    height="300"
+    alt="Anime Clouds"
+  />
 </div>
 
 ---
@@ -49,67 +60,74 @@ I focus on **web development, backend systems, and IoT projects**, while explori
   </tr>
   <tr>
     <td align="center" width="15%">
-      <img src="https://skillicons.dev/icons?i=html,css,js" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="40"/><br/>
       <b>HTML / CSS / JS</b>
     </td>
-    <td width="35%"><br>Core web technologies.</td>
+    <td width="35%">Core web technologies.</td>
     <td align="center" width="15%">
-      <img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>
       <b>React</b>
     </td>
-    <td width="35%"><br>Modern UI development.</td>
+    <td width="35%">Modern UI development.</td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>
       <b>Node.js</b>
     </td>
-    <td><br>Backend & API services.</td>
+    <td>Backend & API services.</td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" width="40"/><br>
-      <b>PHP</b>
+      <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>
+      <b>Express.js</b>
     </td>
-    <td><br>Server-side scripting.</td>
+    <td>REST API & backend framework.</td>
   </tr>
 </table>
 
-<br>
+<br/>
 
 <table>
   <tr>
-    <th colspan="4" align="center">⚙️ Tools & Platform</th>
+    <th colspan="4" align="center">🎨 Styling & Environment</th>
   </tr>
   <tr>
     <td align="center" width="15%">
-      <img src="https://skillicons.dev/icons?i=git,github" width="40"/><br>
-      <b>Git & GitHub</b>
+      <img src="https://skillicons.dev/icons?i=tailwindcss" width="40"/><br/>
+      <b>Tailwind CSS</b>
     </td>
-    <td width="35%"><br>Version control.</td>
+    <td width="35%">Utility-first CSS framework.</td>
     <td align="center" width="15%">
-      <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br>
-      <b>Vercel</b>
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br/>
+      <b>Ubuntu</b>
     </td>
-    <td width="35%"><br>Deployment & hosting.</td>
+    <td width="35%">Main development & server OS.</td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="./assets/gif/footer-2.gif" width="100%" height="340">
-</div>
 
 ---
 
 ### 📊 Adventure Log (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldo-wiranata&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-wiranata&layout=compact&theme=radical" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aldo-wiranata&show_icons=true&theme=radical"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-wiranata&layout=compact&theme=radical"
+    height="180"
+  />
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/gif/footer-1.jpg" width="100%" height="340">
+  <img 
+    src="https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop"
+    width="100%"
+    height="300"
+    alt="Anime Night Sky"
+  />
 </div>
 
 <div align="center">
