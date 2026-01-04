@@ -109,10 +109,10 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 ## 🔥 GitHub Power Level
 
 <p align="center">
-  <img
-     src="https://streak-stats.demolab.com/?user=alwiranata&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&cache_seconds=86400)
+
 </p>
 
 <p align="center">
