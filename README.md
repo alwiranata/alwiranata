@@ -109,14 +109,10 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 ### 📊 Adventure Log (Stats)
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aldo-wiranata&show_icons=true&theme=radical"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-wiranata&layout=compact&theme=radical"
-    height="180"
-  />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alwiranata&theme=tokyonight"/>
+
+
 </div>
 
 ---
