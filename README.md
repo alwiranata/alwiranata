@@ -105,6 +105,13 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 </table>
 
 ---
+## 🔥 GitHub Power Level
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alwiranata&theme=tokyonight"/>
+</p>
+
 
 ### 📊 Adventure Log (Stats)
 
@@ -114,6 +121,10 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alwiranata&theme=tokyonight"/>
+</p>
 
 <div align="center">
   <img 
