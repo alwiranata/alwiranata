@@ -109,7 +109,7 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
 ## 🔥 GitHub Streak
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&cache_seconds=86400)
+  <img src="https://streak-stats.demolab.com/?user=alwiranata&theme=tokyonight&hide_border=true&fire=DD2727"/>
 </p>
 
 
