@@ -104,20 +104,20 @@ I focus on **Web Development, Backend Systems, and IoT Projects**, aiming to cre
   </tr>
 </table>
 
----
 
-## 🔥 GitHub Power Level
+---
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&cache_seconds=86400" />
-
-
+  ![GitHub Streak](https://streak-stats.demolab.com?user=alwiranata&theme=tokyonight&cache_seconds=86400)
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alwiranata&theme=tokyonight"/>
 </p>
+
+
 
 ## 📊 Adventure Log (Stats)
 
